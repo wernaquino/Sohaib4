@@ -1315,15 +1315,18 @@ section.lazy-placeholder:after {
 .cid-s51P9w0vba {
   padding-top: 90px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #010101;
 }
 .cid-s51P9w0vba P {
   color: #767676;
 }
+.cid-s51P9w0vba H1 {
+  color: #ffffff;
+}
 .cid-s51PQ5zSBI {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-color: #010101;
+  background-image: url("../../../assets/images/fran-hogan-j9aikb6tv-m-unsplash-compressor-2000x1026.jpg");
 }
 .cid-s51PQ5zSBI .carousel-control {
   background: #000;
